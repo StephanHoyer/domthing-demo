@@ -4,11 +4,11 @@
   "description": "",
   "main": "demo.js",
   "dependencies": {
-    "browserify": "^5.5.0",
-    "domthing": "^0.0.1"
+    "browserify": "^13.1.1",
+    "domthing": "^0.4.0"
   },
   "devDependencies": {
-    "beefy": "^1.1.0"
+    "beefy": "^2.1.8"
   },
   "scripts": {
     "build": "domthing templates > templates.js",
